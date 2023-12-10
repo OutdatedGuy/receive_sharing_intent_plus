@@ -634,7 +634,7 @@ Add the `receive_sharing_intent_plus` package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  receive_sharing_intent_plus: ^1.0.0
+  receive_sharing_intent_plus: ^1.0.1
 ```
 
 ### 2. Import the package
