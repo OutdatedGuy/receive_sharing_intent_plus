@@ -1,6 +1,6 @@
 name: receive_sharing_intent_plus
 description: "Unlock seamless content sharing in your Flutter apps with text, photos, and URLs - one plugin away."
-version: 1.0.0
+version: 1.0.1
 homepage: https://outdatedguy.rocks
 repository: https://github.com/OutdatedGuy/receive_sharing_intent_plus
 
