@@ -1,3 +1,7 @@
+> [!CAUTION]
+>
+> This plugin is no longer maintained, please use the [receive_sharing_intent](https://pub.dev/packages/receive_sharing_intent) plugin instead.
+
 # Receive Sharing Intent Plus
 
 A Flutter plugin to Unlock seamless content sharing in your apps with text,
